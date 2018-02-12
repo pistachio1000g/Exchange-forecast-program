@@ -41,3 +41,7 @@ It's an appropriate translation, but please forgive me for laughing.
 学習結果を確認する場合は、proto_Chain_calc.pyの16行目を修正して実行してください。
 
 ソースコードそのままの場合だと2017年のデータを予測するようにしてあります。
+
+為替データはこちらのサイトのデータを使用させて頂きました。
+
+https://stooq.com/
